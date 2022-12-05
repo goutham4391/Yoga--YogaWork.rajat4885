@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+yogaworks.com	TRUE	/wp/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+yogaworks.com	TRUE	/	FALSE	1999999999	_yw_session_trac	4110dcbf688656b3fe4c616d70828833
+yogaworks.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
